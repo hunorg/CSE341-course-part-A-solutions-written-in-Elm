@@ -5,5 +5,8 @@
  mainly because of the great error messages the ELM repl has, and because ELM is a very usefull functional language 
  to learn these days.
  
+ You can find more information about the course and homeworks here: https://courses.cs.washington.edu/courses/cse341/13wi/#homeworks
+ 
+ 
  Cheers!
 
